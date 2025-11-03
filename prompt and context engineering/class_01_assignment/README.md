@@ -1,9 +1,12 @@
-# PORMPT AND CONTEXT ENGINEERING
+# **Class Assignment 01**
+
+Make a presentation explaining the difference between Prompt Engineering and Context Engineering.
+
+# **PORMPT AND CONTEXT ENGINEERING**
 
 Difference between **Prompt Engineering** and **Context Engineering**, two key concepts in working with Large Language Models (LLMs).
----
 
-## Prompt Engineering — Definition
+## Prompt Engineering
 
 **Prompt Engineering**  
 It tells the LLM **what to do** and **how to do it**, helping the model understand your prompt and generate accurate results.
@@ -14,12 +17,11 @@ It tells the LLM **what to do** and **how to do it**, helping the model understa
 
 Here, the llm only knows it has to create *any* poem.  
 There’s no detail about style, tone, or topic — os its generate unpredictable or random results..
----
 
-## Context Engineering — Definition
 
-**Context Engineering** giving  **additional information** along with the prompt to get better results..  
- It's like telling someone not just what to do, but also giving them background information so they understand the situation better.— such as topic details, user data, or documents — so it can generate more relevant and meaningful responses.
+## Context Engineering 
+
+**Context Engineering** giving  **additional information** along with the prompt to get better results.It's like telling someone not just what to do, but also giving them background information so they understand the situation better.— such as topic details, user data, or documents — so it can generate more relevant and meaningful responses.
 
 ### Example:
 **Context + Prompt:**  
@@ -27,9 +29,8 @@ There’s no detail about style, tone, or topic — os its generate unpredictabl
 
 Now the llm knows **what the topic is** (moon), **who the audience is** (nursery students), and **what style to use** (simple rhyming).  
 The result will be more accurate, creative, and aligned with your intent.
----
 
-## Key Difference Between Prompt Engineering and Context Engineering
+## **Key Difference Between Prompt Engineering and Context Engineering**
 
 Both Prompt Engineering and Context Engineering are important when working with llm, but they work differently and change how the llm response. 
 
@@ -46,11 +47,8 @@ Both Prompt Engineering and Context Engineering are important when working with 
 ---
 ### 🧾 Summary 
 
-🧾 Summary
-
 ➡️ Modern chatbots mostly use Context Engineering because it helps them find the right information from databases or documents.
 This makes their answers more accurate, helpful, and personalized.
----
 
 **Created by:** Kristina  
 **Topic:** Key Difference – Prompt vs Context Engineering (Quarter 4 – Saturday 2 to 5)
