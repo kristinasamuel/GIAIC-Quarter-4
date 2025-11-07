@@ -53,7 +53,7 @@ Best option: Option 3 because it has variety and fits budget"
 
 ---
 
-## ✈️ Real-World Example – Travel Planner
+## ✈️ Real-World Example 1 – Travel Planner
 
 Imagine an AI travel planner:
 
@@ -63,7 +63,9 @@ With ToT, it will generate multiple travel routes, compare flight timings, costs
 
 So, ToT gives you a well-balanced and optimized travel experience.
 
-🛍️ Real-World Example – Shopping Assistant
+---
+
+## 🛍️ Real-World Example 2 – Shopping Assistant
 
 Imagine an AI shopping assistant:
 
